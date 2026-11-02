@@ -1,2 +1,3 @@
 CAMBIOS CREADOS
 Nota para probar los cambios remotos en un repositorio
+Nota de prueba para git pull remoto
